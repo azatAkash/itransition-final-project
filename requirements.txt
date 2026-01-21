@@ -1,0 +1,4 @@
+great-expectations
+pandas
+pyarrow
+python-telegram-bot==20.7
