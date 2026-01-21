@@ -1,4 +1,4 @@
-great-expectations
+great-expectations==0.15.50
 pandas
 pyarrow
 python-telegram-bot==20.7
